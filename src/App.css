@@ -1,0 +1,21 @@
+.book-image {
+  width: 60px;
+  height: auto;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+.book-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  gap: 10px;
+}
+.toggle-panel-button {
+  padding: 8px 14px;
+  background-color: #0057d8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
