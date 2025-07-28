@@ -1,0 +1,24 @@
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  text-align: center;
+}
+
+.landing-title {
+  font-size: 3rem;
+  color: #333;
+}
+
+.get-started-button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #0057d8;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+}
